@@ -1,6 +1,8 @@
 # 👋 Bonjour, je suis Louis !  
 
 ### 🌟 Développeur Web Junior
+![Aperçu de l'application](bio.png)
+
 
 ---
 
